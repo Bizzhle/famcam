@@ -1,0 +1,104 @@
+body {
+    background-color: #f1cccc;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    font-weight: normal;
+    width: 75%;
+    margin-left: 10%;
+}
+h1, h2 {
+    color: maroon;
+}
+h1 {
+    font-size: 250%;
+}
+h2 {
+    font-size: 120%; 
+}
+p {
+    line-height: 1.6em;
+    color: black;
+}
+p.emilia {
+    color: rgb(117, 42, 42);
+
+}
+p.giulia {
+    color: rgb(105, 105, 5);
+}
+#allcontent{
+    
+    margin-left: 10px;
+    margin-right: 10px;
+}
+header {
+   background-color: chocolate;
+   border: 1px solid brown;
+   margin-bottom: 10px;
+   margin-right: 10px;
+   
+   border-radius: 10px;
+}
+
+section#famMembers {
+    display: table;  
+}
+article.famMember {
+    display: inline-block;
+    padding: 0px 10px 0px 10px;
+    vertical-align: top;
+    background-color: chocolate;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+article#about {
+    border: 1x solid thin blue;
+    padding: 10px;
+    margin-top: 10px;
+    margin-right: 35%;
+    background-color: cadetblue;
+    line-height: 1.9em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif Verdana;
+    font-style: italic;
+    font-size: 100%;
+    margin-left: 5%;
+    border-radius: 10px; 
+}
+section#Navigation {
+    display: table-cell;
+    width: 320px;
+   
+    float: right;
+    background-color: coral;
+}
+
+article#videos {
+    margin-left: 5%;
+    margin-right: 50%;
+}
+
+
+footer {
+ 
+    font-size: 50%;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    color: black;
+    background-color: chocolate;
+    clear: both;
+}
+
+
+a:link {
+    color: rgb(255, 80, 211);
+}
+a:visited {
+    color: #b7dc14;
+}
+a:hover {
+    color: darkolivegreen;
+}
+
+

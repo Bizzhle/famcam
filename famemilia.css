@@ -1,0 +1,55 @@
+body {
+    background-color: #ffffff;
+    margin-left: 10%;
+    margin-right: 15%;
+    padding: 5px 5px 5px 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    font-weight: normal;
+    
+}
+h1, h2, p{
+    color: maroon;
+}
+h1 {
+    font-size: 150%;
+    border-bottom: 1px solid black;
+}
+h2 {
+    font-size: 120%;
+    border-bottom: 1px solid black;
+}
+p {
+    line-height: 1.6em;
+}
+p.emilia {
+    color: rgb(117, 42, 42);
+
+}
+
+ul {
+    color: maroon;
+}
+.myList {
+    line-height: 1.5;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    color: #3a0505;
+    background-color: yellowgreen;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-color: chocolate;
+    border-width: medium;
+    border-bottom-left-radius: 3em;
+    border-top-left-radius: 3em;
+    padding: 25px;
+    margin-right: 250px;
+}
+#footer {
+    border-style: double;
+    border-width: medium;
+    border-radius: 20px;
+    padding-left: 30px;
+    color: black;
+}

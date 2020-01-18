@@ -1,6 +1,5 @@
 body {
     background-color: #f1cccc;
-    
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: small;
     font-weight: normal;
@@ -37,7 +36,6 @@ header {
    border: 1px solid brown;
    margin-bottom: 10px;
    margin-right: 10px;
-   
    border-radius: 10px;
 }
 
